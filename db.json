@@ -1,5 +1,14 @@
 {
-  "id": 1,
-  "title": "hello",
-  "body": "awdbabwd"
+  "user_1" : [
+    {
+      "id": 1,
+      "title": "post_1",
+      "body" : "hello world"
+    },
+    {
+      "id": 2,
+      "title": "post_2",
+      "body" : "abc"
+    }
+  ]
 }
